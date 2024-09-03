@@ -1,5 +1,5 @@
-name: GitHub Actions Demo
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+name: Create AI-based documentation
+run-name: ${{ github.actor }} creates AI-based documentation
 on: [push]
 jobs:
   Explore-GitHub-Actions:
